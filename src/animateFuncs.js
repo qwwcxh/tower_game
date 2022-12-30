@@ -1,4 +1,3 @@
-//54651846
 import { Instance } from 'cooljs'
 import { blockAction, blockPainter } from './block'
 import {
