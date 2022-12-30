@@ -1,3 +1,4 @@
+//12365uhlohip9oaf
 import { checkMoveDown, getMoveDownValue } from './utils'
 import * as constant from './constant'
 
